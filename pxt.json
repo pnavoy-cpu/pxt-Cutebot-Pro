@@ -17,6 +17,8 @@
         "enums.d.ts",
         "_locales/zh-cn/pxt-cutebotpro-strings.json",
         "_locales/fr/pxt-cutebotpro-strings.json",
+        "_locales/sk/pxt-cutebotpro-strings.json",
+        "_locales/sk/pxt-cutebotpro-jsdoc-strings.json",
         "_locales/cs/pxt-cutebotpro-strings.json",
         "_locales/cs/pxt-cutebotpro-jsdoc-strings.json"
     ],
