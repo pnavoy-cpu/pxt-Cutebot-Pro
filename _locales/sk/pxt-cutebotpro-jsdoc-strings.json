@@ -1,12 +1,12 @@
 {
-  "Cutebot_Pro.I2CInit": "Inicializácia I2C až do úspešného dokončenia",
+  "Cutebot_Pro.I2CInit": "Inicializácia zbernice I²C",
   "Cutebot_Pro.PID": "Modul riadenia PID",
-  "Cutebot_Pro.motorRun": "Modul riadenia motora",
-  "Cutebot_Pro.mototRun": "Modul riadenia motorov",
+  "Cutebot_Pro.motorRun": "Modul ovládania motora",
+  "Cutebot_Pro.mototRun": "Modul ovládania motora",
   "Cutebot_Pro.mototStop": "Modul zastavenia motora",
-  "Cutebot_Pro.readPatrol": "Čítanie stavu senzora sledovania čiary",
-  "Cutebot_Pro.readSpeed": "Čítanie rýchlosti motora",
-  "Cutebot_Pro.readeDistance": "Zistenie počtu otáčok kolesa",
-  "Cutebot_Pro.servoRun": "Modul riadenia servomotora",
-  "Cutebot_Pro.setRGBLight": "Ovládanie farby RGB LED"
+  "Cutebot_Pro.readPatrol": "Stav snímača na detekciu čiary",
+  "Cutebot_Pro.readSpeed": "Načítanie rýchlosti motora",
+  "Cutebot_Pro.readeDistance": "Vráti vzdialenosť prejdenú kolesom",
+  "Cutebot_Pro.servoRun": "Modul ovládania servomotora",
+  "Cutebot_Pro.setRGBLight": "Nastavenie farby RGB LED"
 }
